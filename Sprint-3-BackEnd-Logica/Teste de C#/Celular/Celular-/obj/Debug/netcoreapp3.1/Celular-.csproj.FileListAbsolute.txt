@@ -1,0 +1,4 @@
+C:\Users\Saga\Desktop\Celular\Celular-\obj\Debug\netcoreapp3.1\Celular-.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Celular\Celular-\obj\Debug\netcoreapp3.1\Celular-.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Celular\Celular-\obj\Debug\netcoreapp3.1\Celular-.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Celular\Celular-\obj\Debug\netcoreapp3.1\Celular-.csproj.CoreCompileInputs.cache

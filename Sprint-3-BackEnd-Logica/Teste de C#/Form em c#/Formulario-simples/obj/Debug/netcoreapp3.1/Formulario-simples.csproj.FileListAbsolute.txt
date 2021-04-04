@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.exe
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.deps.json
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.runtimeconfig.json
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.dll
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\bin\Debug\netcoreapp3.1\Formulario-simples.pdb
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.dll
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.pdb
+C:\Users\Saga\Desktop\Form em c#\Formulario-simples\obj\Debug\netcoreapp3.1\Formulario-simples.genruntimeconfig.cache

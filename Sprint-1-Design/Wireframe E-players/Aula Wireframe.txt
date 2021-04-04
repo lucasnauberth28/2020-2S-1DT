@@ -1,0 +1,36 @@
+Figma Wireframe E-players
+ 
+ATENÇÃO: ISSO FOI O PROJETO DO PROFESSOR DURANTE A AULA, SEJA CRIATIVO E MONTE O SEU USANDO COMO BASE O CONHECIMENTO DITO EM AULA
+
+Passos:
+1 - Criar arquivo novo ( Canto superior direito "+")
+2 - As principais ferramentas estão no canto superior esquerdo
+3 - Usar a ferramenta "frame ou pancheta" "#"
+4 - selecionar: "Desktop 1440x1024"
+5 - Redefinir "Desktop - 1" para "Página principal ou HomePage"
+6 - selecionar retângulo
+7 - dimensionar de acordo com o papel mostrado em aula
+8 - usar Text e trocar tamanho de fonte "36"
+9 - escrever "E-Players"
+10 - posicionar seu texto para esquerda deixando um pouco de espaço
+11 - escrever "início" com 20 de tamanho da fonte e posicionar levemente pra direita
+12 - copie e cole inicio do lado dele e troque por horários
+13 - ou tecle alt e arraste,depois altere de acordo com o layout do projeto
+14 - Ordem: Início  Horários  Campeonatos  Resultados  Notícias Login/Cadastro
+15 - para selecionar + de um elemento aperte shift e arraste para os outros elementos
+16 - caso n queira tocar sem querer em outro elemento clique nele e use o cadeado
+17 - ou então use shift nas layers, ctrl vc pode selecionar sem arrastar
+18 - alinhe as layers de texto usando align
+19 - depois alinhe os espaços em "more options" e selecione a ferramenta
+20 - aperte ctrl+g para agrupar o topo, e depois nomeie como "menu", antes selecione todas as layers que vc quer no grupo
+21 - Banner
+22 - trave o menu com cadeado
+23 - crie um retângulo 1440x450 e renomeie como banner
+24 - faça um retângulo (dimensone deixando espaço pra texto)
+25 - use a ferramenta linha e faça um "x" no retângulo 
+26 - faça linhas pra texto e depois agrupe como "banner"
+27 - faça um retângulo para agrupar as ligas (retângulo pequeno com ligas menores dentro) 
+28 - faça as ligas
+29 - agrupe como "ligas"
+30 - Atividade: replique o arquivo mandado pelo professor.
+30 - 

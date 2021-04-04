@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@700&family=Open+Sans:wght@600&display=swap');
+            
+*{margin:0; padding: 0; box-sizing:border-box;}
+           
+.topo{
+        background-color:#f9003d;             
+        width: 100%;          
+        height: 63px;
+        position: fixed;
+        top: 0px;
+}
+
+
+
+.menu{
+        width:100%;
+        height:100%;
+        margin:auto;
+        display: flex;
+        justify-content: flex-end;
+        color: white
+                                }
+
+.menu ul{
+        list-style-type:none;                                           
+        width: 600px;
+        height: 60px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+
+}
+
+.menu a{
+        color: white;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: 'Bebas Neue',cursive;
+        font-size: 18px;
+        padding: 14px 35px;
+    
+}
+
+.menu a:hover{
+        background-color:#b30000;
+        border:#ff8080;
+        border-style: double;
+
+}
+
+/*///////////BANNER///////// */
+
+.banner{
+        width: 100%;
+        height: 740px;
+        background-image: url(Images/imagem-fundo-banner.jpg);
+        background-size: cover;
+        background-position: bottom;
+}
+
+.content{
+        width: 1100px; 
+        height: 100%;
+        margin:  auto;
+       /* background-color: rgba(225, 240, 142, 0.49);*/
+}        
+
+.aligndown{   
+        display: flex;
+        align-items: flex-end;
+        
+}         
+
+.banner-text{
+        width:560px; 
+        height: 500px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        
+}
+
+.banner-text h1{
+        font-size: 86px;
+        font-family:'Bebas Neue', cursive;
+        color: white; 
+        padding: 10px;
+        margin-left: 30px;
+        
+}
+
+.banner-text p{
+        font-family:'Bebas Neue', cursive;
+        font-size: 60px;
+        text-transform: uppercase;
+        color:#f9003d;
+        padding: 20px;
+        margin-left: 30px;
+}
+
+.banner img{
+        padding: 20px;
+        padding-left: 30px;
+
+}
+.linha{
+        width: 85%;
+        border: solid 1px #FFAF00;
+        margin: 0 auto;
+ } 
+
+ /* fim do banner */
+ /* início da tela Sobre */
+
+ .sobre{ 
+        width: 100%;
+        height: 600px;  /*verificar altura caso errado*/
+        background-color: #080324;
+
+
+ }
+
+ .sobre h2{
+        font-family: 'Bebas Neue', cursive;
+        color: #f9003d;
+        font-size: 54px;
+        padding-top: 35px;
+        padding-bottom: 25px;
+        padding-left:  60px; 
+ }
+
+.artigo-sobre{
+        display: flex;
+}
+
+.artigo-sobre img{ 
+        width: 450px;
+        padding-left: 60px; 
+
+ }
+
+.artigo-text-sobre{
+        width:550px;
+        color: white;
+        padding-left: 80px;
+ }
+
+.artigo-text-sobre h3:nth-child(2){
+        color: #ffaf00;
+        font-size: 44px;
+        font-family: 'Bebas Neue',cursive;
+
+}
+
+.artigo-text-sobre h3:nth-child(1){
+        color: white;
+        font-size: 24px;
+        font-family: 'Courier New',cursive;
+        text-transform: uppercase;
+
+}
+
+.artigo-text-sobre p{
+        color: white;
+        font-size: 16px;
+        font-family:'Open Sans',sans-serif ;
+        
+}
+
+/* Informação */
+
+.info{
+        width: 100%;
+        height: 200px;
+        background-image: url(Images/imagem-fundo-info.jpg);
+        background-size: cover;
+        font-family: 'Courier Prime', monospace;
+        text-transform: uppercase;
+}
+
+.info h4{
+        color:white;
+        font-size: 24px;
+}
+
+.info p{
+        width: 250px;
+        color: white;
+        font-size: 28px;
+        border:solid 3px #080324;
+        text-align: center;
+        padding: 1em 0; 
+        text-decoration: none;
+}
+    
+.info-flex{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+
+.info-card p:hover{
+        background-color: #6b00bd;
+       
+        opacity: 0.5;
+} 
+
+.endereco{
+        background-image: url(Images/imagem-fundo-ranking.jpg);
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+}
+
+.endereco h2{ 
+        font-family: 'Bebas Neue',cursive;
+        font-size: 40px;
+        color: #ffaf00;
+        font-style: normal;
+}
+
+.end-text{ 
+        width: 750px;
+        height: 220px;
+        background-color: #010010;
+        border:solid 2px #340B65;
+        position: relative;
+        
+}
+
+.end-text p{ 
+        font-family:'Courier Prime', monospace; 
+        color:#A259F7;
+        font-size: 20px;
+        position: absolute;
+        top:78px;
+        left:30px;
+        
+        
+        
+}
+
+.alinha-centro{
+        display: flex;
+        justify-content: center;
+        padding-right: 80px;
+        align-items: center;
+}
+
+.end-text img{
+        position: absolute;
+        right:25px;
+        top: -80px;
+}
+
+.footer{
+        width: 100%;
+        height: 50px;
+        background-color: #f9003d ;
+        color: white;
+        font-family:'Open Sans',sans-serif ;
+        padding-top:  7px; 
+        font-size: 13px;
+        
+
+}

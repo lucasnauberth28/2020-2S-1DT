@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.exe
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.deps.json
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.runtimeconfig.json
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.dll
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\bin\Debug\netcoreapp3.1\Exercicio-Login-.pdb
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.dll
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.pdb
+C:\Users\Saga\Desktop\Login&Cadastro_em_C#\Exercicio-Login-\obj\Debug\netcoreapp3.1\Exercicio-Login-.genruntimeconfig.cache

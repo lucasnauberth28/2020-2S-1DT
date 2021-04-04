@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.exe
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.deps.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.runtimeconfig.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.dll
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\bin\Debug\netcoreapp3.1\Digite seu nome.pdb
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.dll
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.pdb
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Digite seu nome\obj\Debug\netcoreapp3.1\Digite seu nome.genruntimeconfig.cache

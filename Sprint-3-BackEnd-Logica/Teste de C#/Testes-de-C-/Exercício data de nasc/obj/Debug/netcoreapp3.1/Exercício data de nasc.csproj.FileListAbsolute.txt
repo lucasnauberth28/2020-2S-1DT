@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.exe
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.deps.json
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.runtimeconfig.json
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.dll
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\bin\Debug\netcoreapp3.1\Exercício data de nasc.pdb
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.dll
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.pdb
+C:\Users\dev\Desktop\Exercícios de C#\Testes-de-C-\Exercício data de nasc\obj\Debug\netcoreapp3.1\Exercício data de nasc.genruntimeconfig.cache

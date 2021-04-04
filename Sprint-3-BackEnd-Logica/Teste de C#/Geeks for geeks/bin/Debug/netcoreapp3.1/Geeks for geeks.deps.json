@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Geeks for geeks/1.0.0": {
+        "runtime": {
+          "Geeks for geeks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geeks for geeks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

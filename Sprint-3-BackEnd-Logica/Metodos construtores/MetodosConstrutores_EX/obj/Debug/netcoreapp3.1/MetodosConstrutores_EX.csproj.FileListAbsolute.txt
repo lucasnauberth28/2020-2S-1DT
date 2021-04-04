@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.exe
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.deps.json
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.runtimeconfig.json
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.dll
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\bin\Debug\netcoreapp3.1\MetodosConstrutores_EX.pdb
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.dll
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.pdb
+C:\Users\Saga\Desktop\Metodos construtores\MetodosConstrutores_EX\obj\Debug\netcoreapp3.1\MetodosConstrutores_EX.genruntimeconfig.cache

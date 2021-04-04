@@ -1,0 +1,7 @@
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.RazorAssemblyInfo.cache
+C:\Users\Saga\Desktop\Trabalho\Senai Dev 1º\Back-end\Projetos\Lucas Nauberth Instadev Real Project\Regis testing\InstaDev_G1_DT\obj\Debug\netcoreapp3.1\InstaDev_G1_DT.RazorAssemblyInfo.cs

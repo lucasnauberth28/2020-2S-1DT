@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.exe
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.deps.json
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.runtimeconfig.json
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.dll
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\bin\Debug\netcoreapp3.1\Exercicio-de-Classes.pdb
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.dll
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.pdb
+C:\Users\Saga\Desktop\Rpg em c#\Exercicio-de-Classes\obj\Debug\netcoreapp3.1\Exercicio-de-Classes.genruntimeconfig.cache

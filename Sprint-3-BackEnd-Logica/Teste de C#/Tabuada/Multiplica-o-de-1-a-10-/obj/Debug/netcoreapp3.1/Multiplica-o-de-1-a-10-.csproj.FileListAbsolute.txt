@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.exe
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.deps.json
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.runtimeconfig.json
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.dll
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\bin\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.pdb
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.dll
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.pdb
+C:\Users\Saga\Desktop\Tabuada\Multiplica-o-de-1-a-10-\obj\Debug\netcoreapp3.1\Multiplica-o-de-1-a-10-.genruntimeconfig.cache

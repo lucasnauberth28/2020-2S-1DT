@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.exe
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.deps.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.runtimeconfig.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.dll
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.pdb
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.dll
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.pdb
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.genruntimeconfig.cache

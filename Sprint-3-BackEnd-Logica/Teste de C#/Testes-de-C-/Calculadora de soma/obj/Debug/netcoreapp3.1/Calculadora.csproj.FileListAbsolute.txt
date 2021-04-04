@@ -1,0 +1,26 @@
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Saga\Desktop\Senai Dev 1º\Back-end\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Saga\Desktop\Projetos\Projeto 2\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Saga\Desktop\Projetos\Projeto 2\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

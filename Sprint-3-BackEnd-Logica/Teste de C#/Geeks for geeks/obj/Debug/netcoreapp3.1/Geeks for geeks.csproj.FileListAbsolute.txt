@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.exe
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.deps.json
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.runtimeconfig.json
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.dll
+C:\Users\Saga\Desktop\Geeks for geeks\bin\Debug\netcoreapp3.1\Geeks for geeks.pdb
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.dll
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.pdb
+C:\Users\Saga\Desktop\Geeks for geeks\obj\Debug\netcoreapp3.1\Geeks for geeks.genruntimeconfig.cache

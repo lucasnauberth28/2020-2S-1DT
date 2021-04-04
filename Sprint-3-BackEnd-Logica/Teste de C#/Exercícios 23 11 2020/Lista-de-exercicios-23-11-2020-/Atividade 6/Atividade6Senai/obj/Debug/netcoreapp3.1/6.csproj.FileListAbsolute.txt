@@ -1,0 +1,26 @@
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.exe
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.deps.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.dll
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\bin\Debug\netcoreapp3.1\6.pdb
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.dll
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.pdb
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\6\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.exe
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.deps.json
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.dll
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\bin\Debug\netcoreapp3.1\6.pdb
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.dll
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.pdb
+C:\Users\Elaine\Desktop\Exercício senai\Atividade6Senai\obj\Debug\netcoreapp3.1\6.genruntimeconfig.cache

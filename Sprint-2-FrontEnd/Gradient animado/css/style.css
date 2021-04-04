@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --font:'Josefin Sans', sans serif;
+    --color:linear-gradient(225deg, #fbc2eb 0%, #a6c1ee 100%);
+
+}
+        /* Menu */
+header{
+    width: 100%;
+    height: 6.25em;
+    background-color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width:1200px;
+    width: 85%;
+    height: 6.25em;
+    /* border:solid 2px red; */
+    margin: auto;
+}
+
+.logo{
+    height:5em;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    padding: 10px 20px;
+    font-style: none;
+    font-family: var(--font);
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: rgb(63, 62, 62);
+}
+
+.navbar a:hover{
+    border-bottom:solid 2px rgb(63, 62, 62);
+    
+}
+
+        /*  Fim do Menu  */
+        /* Início do banner */
+
+.banner{
+    width: 100%;
+    height: 50vh;
+    background-image:var(--color);
+    display: flex;
+    background-size: 300% 300%;
+    animation: fundo_switch 5s ease infinite alternate;
+}
+
+.cont-banner{
+    width: 85%;
+    max-width: 1200px;
+    height: 50vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.banner-text {
+    color: white;
+    font-family: var(--font);
+    font-size: 25px;
+    text-align: center;
+    border: solid 4px white;
+    padding: 20px 20px;
+    border-radius: 2px;
+}
+
+@keyframes fundo_switch{
+    0%{
+        background-position: 0% 0%;
+    }
+    50%{
+        background-position: 100% 75%;
+    }
+    100%{
+        background-position: 50% 100%;
+    }
+}
+    /* Fim do Banner */
+    /* Produtos */
+
+.produto{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    transition: all .1s ease-in-out;
+    animation:animate_banner 28s infinite ;
+    background-color: rgb(63, 62, 62);
+}
+
+@keyframes animate_banner{
+    0%{
+        background-image: url(../img/banner-1.jpg);
+    }
+    25%{
+        background-image: url(../img/banner-1.jpg);
+    }
+    26%{
+        background-image: url(../img/banner-2.jpg);
+    }
+    50%{
+        background-image: url(../img/banner-2.jpg);
+    }
+    51%{
+        background-image: url(../img/banner-3.jpg);
+    }
+    75%{
+        background-image: url(../img/banner-3.jpg);
+    }
+    76%{
+        background-image: url(../img/banner-4.jpg);
+    }
+    100%{
+        background-image: url(../img/banner-4.jpg);
+    }
+        
+}
+
+.cont-produ{
+    display: flex;
+    width: 85%;
+    height: 50vh;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cont-produ h1{
+    color: white;
+    font-size: 35px;
+    font-family: var(--font);
+}
+
+.cont-produ a{
+    border:solid 2px white;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    font-family: var(--font);
+    border-radius: 3px;
+    transition: 0.3s ease-in-out;
+}
+
+.cont-produ a:hover{
+    background-color: white;
+    color: rgb(63, 62, 62);
+    transition: 0.3s ease-in-out;
+}
+
+footer{
+    width: 100%;
+    background-color: white;
+    height: 6.25em;
+    display: flex;
+}
+
+.logo2{
+    height:5em;
+    
+}
+
+.redes{
+    height: 4.5em;
+    position: relative;
+    left: 13em;
+    cursor: pointer;
+}

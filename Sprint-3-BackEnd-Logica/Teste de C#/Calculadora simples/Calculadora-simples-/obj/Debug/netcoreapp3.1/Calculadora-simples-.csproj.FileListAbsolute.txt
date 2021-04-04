@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.exe
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.deps.json
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.runtimeconfig.json
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.dll
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\bin\Debug\netcoreapp3.1\Calculadora-simples-.pdb
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.dll
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.pdb
+C:\Users\Saga\Desktop\Calculadora simples\Calculadora-simples-\obj\Debug\netcoreapp3.1\Calculadora-simples-.genruntimeconfig.cache

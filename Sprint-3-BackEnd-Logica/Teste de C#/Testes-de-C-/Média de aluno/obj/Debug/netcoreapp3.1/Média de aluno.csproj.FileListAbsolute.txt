@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.exe
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.deps.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.runtimeconfig.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.dll
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\bin\Debug\netcoreapp3.1\Média de aluno.pdb
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.dll
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.pdb
+C:\Users\Saga\Desktop\Teste de C#\Testes-de-C-\Média de aluno\obj\Debug\netcoreapp3.1\Média de aluno.genruntimeconfig.cache

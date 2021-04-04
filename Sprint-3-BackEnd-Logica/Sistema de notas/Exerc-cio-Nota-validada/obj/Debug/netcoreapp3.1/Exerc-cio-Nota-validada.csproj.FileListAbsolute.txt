@@ -1,0 +1,13 @@
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.exe
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.deps.json
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.runtimeconfig.json
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.runtimeconfig.dev.json
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.dll
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\bin\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.pdb
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.csprojAssemblyReference.cache
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.AssemblyInfoInputs.cache
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.AssemblyInfo.cs
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.dll
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.pdb
+C:\Users\Saga\Desktop\Sistema de notas\Exerc-cio-Nota-validada\obj\Debug\netcoreapp3.1\Exerc-cio-Nota-validada.genruntimeconfig.cache
